@@ -3,6 +3,8 @@ body{
     overflow-x: hidden;
 }
 
+/* menu */
+
 .menu{
     display: flex;
     justify-content: center;
@@ -90,6 +92,8 @@ body{
     height:250px;    
 }
 
+/* Biografia */
+
 .biografia{
     font-size:2.2vh;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -102,11 +106,18 @@ body{
     color: #D3D3D3;
 }
 
+
+/* Musica */
+
 .Music{
     background-color:#6b1313 ;
     padding-top: 100px;
     border-bottom:solid;
 }
+
+
+/* Curiosidades */
+
 
 .Curiosidades{
     padding-top: 150px;
@@ -116,6 +127,9 @@ body{
 .Curiosidades li{
     color: #D3D3D3;
 }
+
+
+/* Tour */
 
 .imagenTour{
     display: flex;
@@ -128,6 +142,8 @@ body{
     width: 50%;
     height: 50%;
 }
+
+/* Galeria */
 
 .Galeria{
     display: grid;
@@ -147,6 +163,8 @@ body{
     filter: opacity(0.9);
     transform: scale(1.04);
 }
+
+/* Footer */
 
 .Final{
     background-color:#151515;
